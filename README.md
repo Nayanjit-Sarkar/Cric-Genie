@@ -2,7 +2,7 @@
 Cric Genie is a fantasy cricket application that aims to provide users with accurate predictions of Dream 11 players before the match begins. By leveraging machine learning algorithms and advanced feature engineering techniques, Cric Genie gives users an edge in the competition by helping them choose the best 11 players for their fantasy cricket teams.
 
 ## Problem Statement
-The problem addressed by Cric Genie is the challenge faced by fantasy cricket players in selecting the most suitable players for their Dream 11 teams. With numerous players to choose from and limited resources, it becomes difficult for users, especially beginners, to make informed decisions. Cric Genie solves this problem using machine learning, and optimization techniques to predict the top-performing players accurately.
+The problem addressed by Cric Genie is the challenge faced by fantasy cricket players in selecting the most suitable players for their Dream 11 teams. With numerous players to choose from and limited resources, it becomes difficult for users, especially beginners, to make informed decisions. Cric Genie addresses this problem using machine learning, and optimization techniques to predict the top-performing players accurately.
 
 ## Key Features and Functionality
 - **Data Scraping:** Cric Genie manually scrapes cricket data from ESPN, ensuring access to the most up-to-date information for accurate predictions.
